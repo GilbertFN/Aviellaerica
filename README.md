@@ -1,2 +1,3 @@
 # Aviellaerica
-First Repo
+This is my First Repository
+This is my first commit
